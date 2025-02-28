@@ -1,0 +1,1 @@
+Cette application offrira aux utilisateurs la possibilité de créer, organiser et partager leurs recettes, tout en suivant leurs ingrédients et en générant automatiquement des listes de courses en fonction des ingrédients manquants.
